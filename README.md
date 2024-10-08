@@ -4,3 +4,6 @@
 * Project에 부트스트립 템플 적용
   - 회원가입 화면 구현
   - 자유게시판 화면 구현
+    ![image](https://github.com/user-attachments/assets/5ac461f5-d2a5-4747-a7f4-0246e4b666be)
+    
+
