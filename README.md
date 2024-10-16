@@ -9,3 +9,7 @@
     ![image](https://github.com/user-attachments/assets/8edb59cc-f8d1-4395-b141-8d6d0a3dd7f3)
 
 
+2024. 10. 16
+* 이메일 보내기 구현(여러 명에게 가능)
+  ![image](https://github.com/user-attachments/assets/de820bcd-e2de-4b1c-b651-2251aace64c0)
+  ![image](https://github.com/user-attachments/assets/1d44390f-38c8-419c-8696-735dc8e467cc)
