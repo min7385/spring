@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Web push Notification</title>
+<link rel="manifest" href="/manifest.json">
+</head>
+<body>
+	<h2>Web Push 알림</h2>
+	<button id="subscribeBtn">푸시 알람 구독하기!</button>
+	<input type="hidden" th:value="${vapidPublicKey}" id="key">
+</body>
+<script src="/main.js"></script>
+</html>
